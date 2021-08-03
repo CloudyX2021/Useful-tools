@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CloudyX2021
+- 👀 I’m interested in Discord Bot Coding, Making your own software etc
+- 🌱 I’m currently learning Javascript, python, HTML.
