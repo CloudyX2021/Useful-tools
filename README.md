@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @CloudyX2021
-- 👀 I’m interested in Discord Bot Coding, Making your own software etc
-- 🌱 I’m currently learning Javascript, python, HTML.
+All the apps in this github page are sadly right now only in browser but I might do it like a normal app and add more tools soon, See Ya!
